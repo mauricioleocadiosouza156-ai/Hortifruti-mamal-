@@ -19,7 +19,13 @@ header h1{margin:0 0 6px;font-size:29px}header p{margin:0}
 .note{font-size:13px;color:#666;margin-top:8px}
 </style>
 </head>
-<body>
+<body><script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./service-worker.js');
+  });
+}
+</script>
 <header><h1>🥬 Hortifruti Mamau</h1><p>Escolha seus produtos e monte seu carrinho</p></header>
 
 <main class="wrap">
