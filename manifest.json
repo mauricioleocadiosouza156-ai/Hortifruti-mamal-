@@ -9,12 +9,7 @@
   "orientation": "any",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
-  "icons": [
-    {
-      "src": "https://mauricioleocadiosouza156-ai.github.io/Hortifruti-mamal-/icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+  ""src": "https://mauricioleocadiosouza156-ai.github.io/Hortifruti-mamal-/icon-192x192.png",
     },
     {
       "src": "https://mauricioleocadiosouza156-ai.github.io/Hortifruti-mamal-/icon-512x512.png",
