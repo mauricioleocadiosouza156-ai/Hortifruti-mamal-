@@ -1,12 +1,24 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
+  "id": "/Hortifruti-mamal-/",
+  "name": "Hortifruti Mamau",
+  "short_name": "Hortifruti Mamau",
+  "description": "Hortifruti Mamau - sua loja de frutas, verduras e produtos para sua casa.",
+  "start_url": "/Hortifruti-mamal-/",
+  "scope": "/Hortifruti-mamal-/",
   "display": "standalone",
-  "name": "Hortifruti mamal",
   "orientation": "any",
-  "scope": "/",
-  "short_name": "Hortifruti mamal",
-  "start_url": "/",
+  "background_color": "#ffffff",
   "theme_color": "#ffffff",
-  "description": "Hortifruti Mamau - sua loja de frutas, verduras e produtos para sua casa."
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
