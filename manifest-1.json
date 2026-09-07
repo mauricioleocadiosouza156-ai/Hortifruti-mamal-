@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Hortifruti mamal",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Hortifruti mamal",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Hortifruti Mamau - sua loja de frutas, verduras e produtos para sua casa.",
+  "id": "Hortifruti mamal "
+}
